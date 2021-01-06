@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+#Tim {
+    width: 200px;
+    height: 200px;
+    border-radius: 300px;
+    border-color: #aeeb34;
+    border-style: solid;
+}
+
+#Berners{
+    color: crimson;
+    background: linear-gradient(#32a2a8 0%, #48a832 100%);
+    margin-top: 20px;
+    right: 20px;
+    bottom: 20px;
+    left:  20px;
+    opacity: 0.83;
+        overflow: visible;
+    
+}
+#Lee {
+    color: crimson;
+    text-align: justify;
+}
+#Line {
+    background-color: crimson;
+    height: 20px;
+    margin: auto 275px
+}
+#Hi {
+    background-color: lightgreen;
+    padding-top: 20px
+}
